@@ -1,0 +1,14 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Downloads directory
+downloads/
+
+# Selenium temporary files
+*.log
+
+# OS generated files
+.DS_Store
+Thumbs.db
